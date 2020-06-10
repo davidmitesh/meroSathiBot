@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "bottender dev",
+    "start": "bottender start"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bottender": "^1.4.6",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0",
+    "node-wit": "^5.0.0"
+  }
+}
