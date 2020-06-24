@@ -20,17 +20,17 @@ module.exports = {
             callToActions: [
               {
                 type: "postback",
-                title: "Talk to an agent",
+                title: "Make a appointment with pyschiatrist.",
                 payload: "CARE_HELP"
               },
               {
                 type: "postback",
-                title: "Outfit suggestions",
+                title: "Mental Health events around",
                 payload: "CURATION"
               },
               {
                 type: "web_url",
-                title: "Shop now",
+                title: "Toll Free Helpline Numbers",
                 url: "https://www.originalcoastclothing.com/",
                 webviewHeightRatio: "full"
               }

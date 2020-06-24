@@ -10,7 +10,9 @@
 // run();
 // console.log(`hey this is mitesh ${index}`);
 var object = {};
+// var a=["mitesh","cat"];
+// object.splice(0,0,a[0]) 
 
-object.a = "hey";
-object.b = "hi";
+object["key"]="mitesh";
+object.a=2;
 console.log(object);
